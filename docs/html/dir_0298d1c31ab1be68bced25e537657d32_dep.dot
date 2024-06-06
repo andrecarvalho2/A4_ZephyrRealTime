@@ -1,0 +1,15 @@
+digraph "/home/andre/Secretária/A4_Andre_84911"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_83fd340ff71480251c07941f3e74582d {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,dashed,", label="Secretária", fontname="Helvetica", fontsize="10", URL="dir_83fd340ff71480251c07941f3e74582d.html"]
+  subgraph clusterdir_0298d1c31ab1be68bced25e537657d32 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_0298d1c31ab1be68bced25e537657d32.html"]
+    dir_0298d1c31ab1be68bced25e537657d32 [shape=plaintext, label="A4_Andre_84911"];
+  dir_646b946a65ddb736f512e9d13c3e94f9 [shape=box, label="src", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_646b946a65ddb736f512e9d13c3e94f9.html"];
+  }
+  }
+}
